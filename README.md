@@ -1,4 +1,4 @@
-# Lazada_on_tiktok
+# Lazada on tiktok
 
 This project analyze videos of lazadavietnam on Tiktok. 
 
@@ -28,4 +28,7 @@ This project analyze videos of lazadavietnam on Tiktok.
 
 The detail is shown in the jupyter notebook file.
 
-**Additional Note**: Before code execution, we should downgrade the TiktokApi library pip install ***TikTokApi==6.2.0 --force-reinstall***
+**Additional Note**: Before code execution, we should downgrade the TiktokApi library:
+``` bash
+pip install TikTokApi==6.2.0 --force-reinstall
+```
